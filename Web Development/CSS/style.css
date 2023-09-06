@@ -1,0 +1,81 @@
+body{
+    background:url("/image/sumon.jpg");
+}
+.navbar{
+
+    border: 15px solid blueviolet;
+    background-color: azure;
+    width: 500px;
+    padding: 15px;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar p{
+
+    text-indent: 50px;
+    text-align: justify;
+    text-decoration: underline;
+    line-height: 1cm;
+}
+#innerlink{
+
+    display: block;
+    background-color: aquamarine;
+    width: 70px;
+    margin: auto;
+    padding: 25px;
+    text-decoration: none;
+}
+#innerlink:hover{
+
+    
+    background-color: green;
+    color: white;
+   
+}
+
+.listclass{
+width: 40%;
+margin: auto;
+background-color: yellowgreen;
+padding: 50px;
+
+}
+ 
+.mytable{
+    padding: 100px;
+    background-color: blueviolet;
+    margin-top: 20px;
+    
+}
+.tablecontainer{
+background-color: brown;
+margin: auto;
+padding: 50px;
+width: 50%;
+
+
+}
+.tablecontainer table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    
+    }
+    .tablecontainer table th{
+        border: 2px solid black;
+        background-color: blue;
+        color: white;
+        
+        }
+        .tablecontainer table td{
+            border: 2px solid black;
+            
+            }
+        
+    .mydisplay{
+
+        padding: 25px;
+        background-color: red;
+        position: sticky;
+        top: 0cm;
+    }
